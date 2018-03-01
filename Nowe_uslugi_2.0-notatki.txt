@@ -1,0 +1,13 @@
+"Nowe usługi 2.0. Przewodnik po analizie zbiorów danych", Toby Segaran, 2014, Helion
+
+inteligencja zbiorowa [s.22) - łączenie zachowań, preferencji lub pomysłów grupy osób w celu uzyskania nowatorskich spostrzeżeń
+
+uczenie maszynowe [s.23] - metoda wyciągania wcniosków z danych. Algorytm otrzymuje zbiór danych i określa wnioski dotyczące ich właściwości. Informacje te umożliwiają tworzenie przewidywań odnośnie do innych danych, które mogą pojawić się w przyszłości. Jest to możliwe, ponieważ niemal wszystkie nielosowe dane zawierają wzorce, które pozwalają maszynie dokonywać uogólnień. W tym celu trenowany jest model przy użyciu tego, co maszyna uzna za najważniejsze aspekty danych.
+
+drzewa decyzyjne a sieci neuronowe [s.23]
+
+rynki prognostyczne [s.25]
+
+### Tworzenie rekomendacji
+
+# Filtrowanie grupowe
